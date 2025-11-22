@@ -1,0 +1,11 @@
+# Java / Maven
+target/
+*.class
+*.log
+*.jar
+*.war
+*.iml
+/.idea
+/.vscode
+.settings/
+*.tmp
